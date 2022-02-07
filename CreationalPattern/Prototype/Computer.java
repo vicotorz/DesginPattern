@@ -1,4 +1,4 @@
-package Cloneable;
+package Prototype;
 
 //浅复制
 public class Computer implements Cloneable{

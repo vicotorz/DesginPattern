@@ -1,4 +1,4 @@
-package Cloneable;
+package Prototype;
 
 public class ComputerDetail implements Cloneable {
     private String cpu;

@@ -1,4 +1,4 @@
-package Cloneable;
+package Prototype;
 
 public class Disk implements Cloneable {
     private String ssd;
