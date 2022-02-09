@@ -1,0 +1,7 @@
+解释器：给定一种语言，并定义该语言的表示，用于SQL解析，符号处理引擎
+
+角色：
+抽象表达式（Abstract Expression）：定义解析器的接口，约定解释器所包含的操作，比如interpret()
+终结符表达式（Terminal Expression）：用来定义语法中和终结符有关的操作
+非终结符表达式（Nonterminal Expression）：抽象表达式子类
+环境
